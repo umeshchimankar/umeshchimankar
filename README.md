@@ -69,6 +69,9 @@
   <a href="https://stackoverflow.com/users/13927066/umesh-chimankar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
+  <a href="https://umeshchimankar.github.io/cv/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Personal%20Site&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
 </div>
 
 ###
