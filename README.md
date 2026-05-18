@@ -1,211 +1,158 @@
-👋 Hi, I'm Umesh Chimankar
+# Hi there, I'm Umesh Chimankar 👋
 
-☁️ AWS Cloud & Linux Engineer | 🧠 Data Science Enthusiast | 💻 Software Developer
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umesh-chimankar-46a908a9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umeshchimankar21@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Bhusawal,_Maharashtra-green?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
-AWS Cloud and Linux Engineer with 2.5+ years of experience in cloud infrastructure management, Linux administration, automation, DevOps, and full-stack development.Experienced in building scalable cloud solutions using AWS services, automating infrastructure workflows, and developing enterprise applications with Java and Spring Boot.
+</div>
 
-🚀 About Me
+## 🚀 About Me
 
-☁️ AWS Cloud & Linux Engineer
-🎓 M.E. in Computer Engineering ( Date Science )
-🎓 PG-DAC Graduate – C-DAC Hyderabad
-🎓 B.E. in Electronics & Communication Engineering
-💼 2.5+ years of professional experience
-🧠 Passionate about Cloud Computing, DevOps, AI/ML, and System Design
-🔍 Interested in Infrastructure Automation, Monitoring, and Scalable Architectures
+I'm an **AWS Cloud & Linux Engineer** with 2.5+ years of hands-on experience in cloud infrastructure management, system administration, and full-stack development. Currently pursuing my **Master of Engineering in Computer Engineering** from Savitribai Phule Pune University.
 
-🛠️ Technical Skills
+- 🔭 Former **Assistant Professor (AIML Department)** at R.C. Patel Institute of Technology
+- 🌱 AWS Certified Cloud Practitioner with expertise in cloud architecture and automation
+- 💼 Experienced in designing scalable cloud infrastructures and implementing CI/CD pipelines
+- 🎓 PG-DAC Graduate from CDAC Hyderabad
+- 📊 Background in Data Science and Machine Learning
+- 💡 Passionate about DevOps, Infrastructure as Code, and Cloud-Native Technologies
 
-☁️ Cloud Platforms & Services
-AWS EC2
-S3
-IAM
-VPC
-RDS
-EBS
-CloudWatch
-Auto Scaling
-ELB / ALB
-Route 53
-SNS
-ECS
-CloudFront
+## 🛠️ Technical Skills
 
-🐧 Linux & System Administration
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-RedHat
-CentOS
-Ubuntu
-Amazon Linux
-User & Group Management
-Process Control
-Service Monitoring
-Performance Tuning
-Shell Scripting
+**AWS Services:** EC2, S3, IAM, VPC, RDS, EBS, CloudWatch, Auto Scaling, ELB/ALB, Route 53, SNS, ECS, CloudFront
 
-⚙️ DevOps & Automation
+### 🐧 Linux & System Administration
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-Terraform
-Ansible
-Docker
-Kubernetes
-Jenkins
-Bash Scripting
-AWS CLI
-CI/CD Pipelines
+**Expertise:** RedHat, CentOS, Ubuntu, Amazon Linux | User Management, Performance Tuning, Service Monitoring
 
-💻 Programming Languages
+### 🔧 DevOps & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Java
-Python
-JavaScript
-SQL
-C
-C++
+### 💻 Programming & Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-🌐 Frameworks & Technologies
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Spring Boot
-Spring MVC
-Spring Security
-Hibernate
-REST APIs
-Microservices
-JDBC
-Servlets
-JSP
-React.js (Basic)
+## 💼 Professional Experience
 
-🗄️ Databases
+### 🎓 Assistant Professor (AIML Department)
+**R.C. Patel Institute of Technology, Shirpur** | *August 2024 – February 2025*
+- Delivered comprehensive lectures in AI/ML to undergraduate students
+- Developed web applications and ERP systems
+- Improved student placement rates by 15% through mentorship
 
-MySQL
-Oracle
-PostgreSQL
-Amazon RDS
-MongoDB
+### 📊 Data Scientist Intern
+**Rubixe, Bengaluru** | *December 2023 – June 2024*
+- Optimized data processing pipelines achieving 35% reduction in processing time
+- Developed ML models for customer churn prediction, reducing churn by 10%
+- Enhanced sales forecasting accuracy by 25%
 
-🔐 Monitoring & Security
+### 👨‍💻 Project Associate
+**CDAC, Hyderabad** | *March 2021 – December 2022*
+- Developed enterprise web applications using Spring Boot and Hibernate
+- Implemented responsive UIs with modern web technologies
+- Built interactive mapping solutions for Smart City applications
 
-AWS CloudWatch
-IAM Policies & Roles
-KMS Encryption
-Incident Response
-Security Best Practices
+## 🎯 Featured Projects
 
-📌 Featured Projects
+### ☁️ AWS Infrastructure Automation with EC2 Lifecycle Management
+- Automated EC2 instance scheduling using Bash scripts and cron jobs
+- Achieved **30-40% cost reduction** by optimizing resource utilization
+- Implemented tag-based instance selection for multi-environment automation
+- **Tech Stack:** AWS EC2, IAM, Bash Scripting, AWS CLI, Amazon Linux
 
-🚀 AWS Infrastructure Automation with EC2 Lifecycle Management
-Automated EC2 start/stop scheduling using Bash scripts and cron jobs.
-Highlights:
-Reduced infrastructure costs by 30–40%
-Implemented IAM least-privilege access
-Automated environment-wise instance management
-Improved operational efficiency and security
+### 📈 Linux Server Monitoring & Alerting System
+- Built real-time monitoring solution using AWS CloudWatch
+- Reduced server downtime by **30%** through automated alerting
+- Developed custom metrics for CPU, memory, and disk monitoring
+- **Tech Stack:** AWS CloudWatch, EC2, SNS, Linux, Bash Scripting
 
-📊 Linux Server Monitoring & Alerting System on AWS
-Built a real-time monitoring and alerting system using AWS CloudWatch and SNS.
-Highlights:
-Custom monitoring scripts for CPU, RAM, Disk, and Services
-Automated email alerting system
-Reduced server downtime by 30%
-Improved incident response and reliability
+### 💾 Automated Backup & Disaster Recovery System
+- Designed automated backup strategy with zero data loss
+- Achieved **15-minute RTO** through validated DR procedures
+- Implemented S3 lifecycle policies for cost-effective storage
+- **Tech Stack:** AWS S3, EBS Snapshots, IAM, Bash, Lifecycle Policies
 
-💾 Automated Backup & Disaster Recovery System
-Designed automated backup solutions using EBS snapshots and S3 lifecycle policies.
-Highlights:
-Scheduled automated backups
-Disaster recovery validation
-Zero data-loss recovery testing
-Secure archival with encryption
+### 🏙️ Smart City IoT Application Platform
+- Developed comprehensive platform integrating 6+ modules
+- Improved garbage collection efficiency by **25%** with IoT monitoring
+- Implemented GIS-based visualization using QGIS and Leaflet.js
+- **Tech Stack:** Spring Boot, REST APIs, MySQL, QGIS, Leaflet.js
 
-🌆 Smart City IoT Application Platform
-Developed Smart City solutions integrating IoT, GIS mapping, and analytics.
-Modules Included:
-Waste Management
-Water Distribution
-Transportation
-Emergency Services
-Pollution Monitoring
+### 🔒 ML-Based Fraud Detection System
+- Developed fraud detection models using ensemble ML techniques
+- Reduced cart abandonment by **30%** and increased order value by **20%**
+- Implemented multiple algorithms (SVM, Random Forest, Decision Trees)
+- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, ADABoost
 
-🧠 Machine Learning Fraud Detection System
-Built ML models for banking fraud detection using ensemble learning techniques.
-Algorithms Used:
-Random Forest
-SVM
-Logistic Regression
-Decision Trees
-KNN
-ADABoost
+## 📜 Certifications
 
-💼 Professional Experience
+- ✅ **AWS re/Start Program** - Amazon Web Services (2026)
+- ✅ **CLF-C02 AWS Certified Cloud Practitioner**
+- ✅ **Multicloud Network Associate** - Aviatrix
+- ✅ **Oracle Cloud Infrastructure 2025 Certified DevOps Professional**
+- ✅ **Red Hat Certified System Administrator (RHCSA)**
+- ✅ **Linux Foundation Certified System Administrator**
+- ✅ **Advanced QGIS** - Spatial Thoughts
+- ✅ **Python 101 for Data Science**
+- ✅ **TCS iON Career Edge – Young Professional**
 
-👨‍🏫 Assistant Professor – AIML Department
-R.C. Patel Institute of Technology, Shirpur - August 2024 – February 2025
+## 📝 Publications
 
-📚 Teaching & Mentorship
-Delivered lectures on Artificial Intelligence, Machine Learning, programming concepts, and modern computing technologies
-Guided students on academic projects, internships, and technical problem-solving
-Created practical learning materials aligned with industry standards
-Mentored students for research work and career development
+**Detection of Fraud in Banking System through Machine Learning Approach**  
+*International Conference on Data Mining and Information Security 2024*
 
-💻 Development Work
-Developed and maintained ERP and web applications
-Improved application performance, usability, and security
-Supported technical infrastructure and software-related activities within the department
+## 🎓 Education
 
-📈 Data Scientist Intern
-Rubixe, Bengaluru - December 2023 – June 2024
+- 🎓 **Master of Engineering** in Computer Engineering - Savitribai Phule Pune University (2025)
+- 💻 **PG-DAC** (Post Graduate Diploma in Advanced Computing) - CDAC Hyderabad (2021)
+- 🎓 **Bachelor of Engineering** in Electronics & Communication - KBC North Maharashtra University (2018)
 
-🤖 Development & Data Science
-Built machine learning models for churn prediction and forecasting
-Optimized data processing pipelines using Python and Pandas
-Worked on analytics, preprocessing, and predictive modeling
-Improved forecasting accuracy using ML algorithms and ensemble methods
+## 📊 GitHub Stats
 
-🏢 Project Associate 
-C-DAC Hyderabad - March 2021 – December 2022
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umeshchimankar&show_icons=true&theme=radical)
 
-⚙️ Software Development
-Developed enterprise web applications using Java, Spring Boot, Hibernate, and REST APIs
-Built secure authentication and authorization systems using Spring Security
-Designed responsive frontend interfaces using HTML, CSS, Bootstrap, and JavaScript
-Worked on Smart City applications using QGIS and Leaflet.js
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umeshchimankar&layout=compact&theme=radical)
 
-🤝 Collaboration & Engineering
-Coordinated with teams and stakeholders to deliver scalable software solutions
-Followed software engineering best practices and MVC architecture
-Contributed to application deployment, testing, and maintenance
+</div>
 
-🎓 Education
+## 🤝 Let's Connect!
 
-M.E. in Computer Engineering ( Data Science ) - Savitribai Phule Pune University
-PG-DAC - CDAC Hyderabad
-B.E. in Electronics & Communication Engineering - Kavayitri Bahinabai Chaudhari North Maharashtra University
+I'm always interested in collaborating on cloud infrastructure projects, DevOps automation, and machine learning applications. Feel free to reach out!
 
-🏆 Certifications
+- 📧 Email: umeshchimankar21@gmail.com
+- 💼 LinkedIn: [umesh-chimankar](https://www.linkedin.com/in/umesh-chimankar-46a908a9)
+- 📱 Phone: +91 9665433440
+- 📍 Location: Bhusawal, Maharashtra, India
 
-AWS Certified Cloud Practitioner (CLF-C02)
-AWS re/Start Program
-Oracle Cloud Infrastructure DevOps Professional
-RHCSA – Red Hat Certified System Administrator
-Linux Foundation Certified System Administrator
-Aviatrix Multicloud Network Associate
-Python 101 for Data Science
+---
 
-📈 GitHub Focus
+<div align="center">
+  
+### 💡 *"Building scalable cloud solutions and automating infrastructure for a better tomorrow"*
 
-☁️ Cloud Infrastructure
-⚙️ DevOps Automation
-🐧 Linux Administration
-🧠 Machine Learning Projects
-🚀 Scalable Backend Systems
+![Profile Views](https://komarev.com/ghpvc/?username=umeshchimankar&color=blueviolet&style=for-the-badge)
 
-🌐 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/umesh-chimankar-46a908a9
-Email: umeshchimankar21@gmail.com
-
-⚡ Motto
-
-"Build. Automate. Scale. Learn. Repeat."
-
+</div>
