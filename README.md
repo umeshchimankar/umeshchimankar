@@ -128,16 +128,6 @@ I'm an **AWS Cloud & Linux Engineer** with 2.5+ years of hands-on experience in 
 - 💻 **PG-DAC** (Post Graduate Diploma in Advanced Computing) - CDAC Hyderabad (2021)
 - 🎓 **Bachelor of Engineering** in Electronics & Communication - KBC North Maharashtra University (2018)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umeshchimankar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umeshchimankar&layout=compact&theme=radical)
-
-</div>
-
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on cloud infrastructure projects, DevOps automation, and machine learning applications. Feel free to reach out!
@@ -152,7 +142,5 @@ I'm always interested in collaborating on cloud infrastructure projects, DevOps 
 <div align="center">
   
 ### 💡 *"Building scalable cloud solutions and automating infrastructure for a better tomorrow"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=umeshchimankar&color=blueviolet&style=for-the-badge)
 
 </div>
